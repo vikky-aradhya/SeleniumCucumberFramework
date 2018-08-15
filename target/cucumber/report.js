@@ -69,49 +69,49 @@ formatter.match({
   "location": "Login.test_data_is_read_from_excel_under(String,String)"
 });
 formatter.result({
-  "duration": 6644927337,
+  "duration": 4687612071,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.user_opens_browser()"
 });
 formatter.result({
-  "duration": 7115225523,
+  "duration": 9578390080,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.user_enters_the_username()"
 });
 formatter.result({
-  "duration": 3217546096,
+  "duration": 3081375420,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.user_enters_the_password()"
 });
 formatter.result({
-  "duration": 3124486065,
+  "duration": 3068578458,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.user_clicks_on_Login()"
 });
 formatter.result({
-  "duration": 7711261077,
+  "duration": 7104759743,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.the_verify_the_title()"
 });
 formatter.result({
-  "duration": 20099750,
+  "duration": 8138372,
   "status": "passed"
 });
 formatter.match({
   "location": "Login.user_quits_the_browser()"
 });
 formatter.result({
-  "duration": 2045552459,
+  "duration": 1023872158,
   "status": "passed"
 });
 });

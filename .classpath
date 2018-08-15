@@ -42,5 +42,6 @@
 	<classpathentry kind="lib" path="E:/Selenium-Java/extentreports-java-3.1.5/lib/jsoup-1.9.2.jar"/>
 	<classpathentry kind="lib" path="E:/Selenium-Java/extentreports-java-3.1.5/lib/mongodb-driver-3.3.0.jar"/>
 	<classpathentry kind="lib" path="E:/Selenium-Java/extentreports-java-3.1.5/lib/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium-Java/Selenium Jars/cucumber-testng-1.2.5.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

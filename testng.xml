@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Test Suite" parallel="tests">
+	<test name="Chrome Test">
+		<classes>
+			<class name="runner.TestRunner" />
+		</classes>
+	</test>
+</suite>
